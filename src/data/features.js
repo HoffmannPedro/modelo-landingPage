@@ -3,7 +3,7 @@ export const featuresData = [
         id : 1,
         title: "Alto rendimiento",
         description: "Experimenta tiempos de carga ultrarápidos y una interaccion suave en toda la aplicación.",
-        icon: "🚀"   // <-- opcional, o usa un componente de Heroicons luego
+        icon: "🚀"  
     },
     {
       id: 2,

@@ -11,7 +11,7 @@ export default function Features({ items }) {
                             key={feature.id}
                             className='bg-blue-50 rounded-xl p-6 shadow hover:shadow-lg transition'
                         >
-                            {/* Espacio para un icono */}
+                            
                             <div className='text-4xl mb-3'>{feature.icon}</div>
 
                             <h3 className='text-xl font-semibold mb-2 text-blue-700'>

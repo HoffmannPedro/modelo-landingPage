@@ -31,7 +31,7 @@ export default function Header() {
                         {/* Logo */}
                         <div className="flex-shrink-0">
                             <a href="/" className="text-2xl font-bold text-blue-700">
-                                MyStartup
+                                WebExpress
                             </a>
                         </div>
 
@@ -116,28 +116,28 @@ export default function Header() {
                         className="block text-gray-700 hover:text-blue-700 font-medium"
                         onClick={() => setIsOpen(false)}
                     >
-                        Features
+                        Características
                     </a>
                     <a
                         href="#pricing"
                         className="block text-gray-700 hover:text-blue-700 font-medium"
                         onClick={() => setIsOpen(false)}
                     >
-                        Pricing
+                        Precio
                     </a>
                     <a
                         href="#contact"
                         className="block text-gray-700 hover:text-blue-700 font-medium"
                         onClick={() => setIsOpen(false)}
                     >
-                        Contact
+                        Contacto
                     </a>
                     <a
                         href="#get-started"
                         className="block px-4 py-2 bg-blue-700 text-white rounded-md text-center hover:bg-blue-800 transition"
                         onClick={() => setIsOpen(false)}
                     >
-                        Get Started
+                        Comenzar
                     </a>
                 </div>
             </div>
