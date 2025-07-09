@@ -89,7 +89,7 @@ export default function Contact() {
                                 : "bg-blue-700 text-white hover:bg-blue-900"
                                 }`}
                         >
-                            {isSubmitting ? "Enviando..." : "Send Message"}
+                            {isSubmitting ? "Enviando..." : "Enviar"}
                         </button>
                     </div>
                     {isSubmitSuccessful && (
